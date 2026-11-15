@@ -1,2 +1,2 @@
 # botkeuangan
-Bot keuangn tele
+Bot catatan keuangan tele
